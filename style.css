@@ -1,0 +1,21 @@
+
+body {
+    background-color: aquamarine;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif ;
+    text-shadow: 0px 2px 4px rgb(178, 182, 190);
+    
+}
+
+
+
+h2{
+    color: rgb(66, 53, 53);
+}
+
+h2:hover{
+    color: blueviolet;
+}
